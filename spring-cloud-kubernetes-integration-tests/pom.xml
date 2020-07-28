@@ -22,7 +22,7 @@
 		<fmp.version>3.5.42</fmp.version>
 		<arquillian-cube.version>1.18.2</arquillian-cube.version>
 		<arquillian.version>1.4.0.Final</arquillian.version>
-		<rest-assured.version>3.2.0</rest-assured.version>
+		<rest-assured.version>4.3.1</rest-assured.version>
 
 		<!--
           The port on localhost where the application will listen to from outside the cluster
